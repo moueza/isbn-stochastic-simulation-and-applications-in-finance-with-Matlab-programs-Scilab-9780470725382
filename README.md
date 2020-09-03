@@ -1,0 +1,1 @@
+# isbn-stochastic-simulation-and-applications-in-finance-with-Matlab-programs-Scilab-9780470725382
